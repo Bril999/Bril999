@@ -1,13 +1,12 @@
 
-# Привет, меня зовут Дмитрий!
+# Hello, my name is Dmitry!
 
 ---
 
-### :man_technologist: Обо мне:
+### :man_technologist: About me:
 
-Я начинающий разработчик. Мой путь в it начался с ВУЗ'а МГТУ им. Баумана, где я впервые узнал подробно о программировании на Python с использованием HTML, CSS, Flask, SQL, с чего и начал свой путь в веб-программировании. Также я изучал язык Си, на котором написал несколько серьезных проектов (тест печати, база данных, обработчик графов) с использованием таких инструментов, как CJSON, Ncurses, Graphviz. Все проекты данной тематики можно посмотреть у меня в профиле.
+I am a novice developer. My path to it began with the Bauman Moscow State Technical University, where I first learned in detail about programming in Python using HTML, CSS, Flask, SQL, which is where I started my path in web programming. I also studied the C language, in which I wrote several serious projects (print test, database, graph handler) using tools such as CJSON, Ncurses, Graphviz. All projects of this subject can be viewed in my profile.
 
-
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-bril_dmitry-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/brilllyant) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:brildima1@gmail.com)
+- :mailbox: How to contact me: [![Telegram Badge](https://img.shields.io/badge/-bril_dmitry-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/brilllyant) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:brildima1@gmail.com)
 
 ---
